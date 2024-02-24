@@ -1,0 +1,5 @@
+﻿@DurableSample_HostAddress = http://localhost:7019
+
+GET {{DurableSample_HostAddress}}/api/Function1
+
+###
